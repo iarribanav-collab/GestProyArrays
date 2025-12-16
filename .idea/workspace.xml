@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
     <list default="true" id="e3312d61-55e4-44a4-9300-46a6437b37fe" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/Trabajador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Trabajador.java" afterDir="false" />
     </list>
-=======
     <list default="true" id="e3312d61-55e4-44a4-9300-46a6437b37fe" name="Changes" comment="" />
->>>>>>> 002205c41454829f24721dab37f081d6b2d33916
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
