@@ -2,9 +2,13 @@ public class Equipo {
 
     private Trabajador lider;
 
-    private Trabajador participante1;
-    private Trabajador participante2;
-    private Trabajador participante3;
+    private Trabajador [] participantes;
+    private int numParticipante ;
+
+    public Equipo() {
+        this.participantes = new Trabajador[0];
+        this.numParticipante = numParticipante;
+    }
 
     public int getMaxNumeroParticipantes() {
         return Ctes.MAX_NUM_PARTICIPANTES_EQUIPO;
