@@ -8,7 +8,7 @@ public class Trabajadores {
         new Trabajador("Nerea", 1),
         new Trabajador("Edurne", 0),
         new Trabajador("Tasio", 0),
-        new Trabajador("Iosu", 0),
+        new Trabajador("Iosu",  0),
     };
 
     public static Trabajador getTrabajador(int numero) {
