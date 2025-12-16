@@ -46,8 +46,14 @@ public class Trabajador {
     public static void main(String[] args) {
         Trabajador t1 = new Trabajador("Jaime");
         System.out.println(t1);
+<<<<<<< HEAD
         Trabajador t2 = new Trabajador("Chasca");
         t2.setCategoria(Ctes.CAT_JUNIOR);
         System.out.println(t1);
+=======
+        Trabajador t2 = new Trabajador("elisa");
+        t2.setCategoria(Ctes.CAT_JUNIOR);
+        System.out.println(t2);
+>>>>>>> 774c629e7a8c1f53160a245a7e9a9d41ff979ef1
     }
 }
