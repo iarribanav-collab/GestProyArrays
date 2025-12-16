@@ -51,4 +51,7 @@ public class Trabajador {
         System.out.println(t1);
 
     }
+    /* Yandri
+    * Comentario*/
+
 }
