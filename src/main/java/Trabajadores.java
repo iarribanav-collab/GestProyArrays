@@ -17,17 +17,6 @@ public class Trabajadores {
         }
         return trabajadores[numero-1];
 
-        switch (numero) {
-            case 1: return new Trabajador("Aitor", 2);
-            case 2: return new Trabajador("Alba", 2);
-            case 3: return new Trabajador("Ander", 1);
-            case 4: return new Trabajador("Laura", 1);
-            case 5: return new Trabajador("Nerea", 1);
-            case 6: return new Trabajador("Edurne", 0);
-            case 7: return new Trabajador("Tasio", 0);
-            case 8: return new Trabajador("Iosu", 0);
-        }
-        return null;
     }
 
     public static void mostrar() {
